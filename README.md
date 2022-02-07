@@ -1,1 +1,2 @@
-# STA304
+# Overview
+This report utilizes the data on the renewable energy installations on city-owned buildings in the City of Toronto obtained from Toronto Open Data Portal. As the City of Toronto has been shortlisted for the "CDP Cities A List" for two consecutive years, this report addresses how active the City of Toronto has been in producing renewable energy by observing the number of renewable energy systems installed in Toronto. Additionally, it checks the whether the City of Toronto is doing good in addressing the issue of climate change to the public by observing the quality of the open dataset.
